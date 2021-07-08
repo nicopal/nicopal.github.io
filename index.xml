@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicolae Paladi</title>
-    <link>http://nicolaepaladi.com/</link>
+    <link>nicolaepaladi.com/</link>
     <description>Recent content on Nicolae Paladi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jul 2021 11:27:20 +0200</lastBuildDate><atom:link href="http://nicolaepaladi.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 11:27:20 +0200</lastBuildDate><atom:link href="nicolaepaladi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>nicolaepaladi.com/about/</link>
+      <pubDate>Thu, 08 Jul 2021 12:14:21 +0200</pubDate>
+      
+      <guid>nicolaepaladi.com/about/</guid>
+      <description>My name is Nicolae Paladi, I am a researcher at Lund University and the CEO &amp;amp; Co-founder of CanaryBit AB.</description>
+    </item>
+    
     <item>
       <title>Standict 2021 06 15</title>
-      <link>http://nicolaepaladi.com/posts/standict-2021-06-15/</link>
+      <link>nicolaepaladi.com/posts/standict-2021-06-15/</link>
       <pubDate>Thu, 08 Jul 2021 11:27:20 +0200</pubDate>
       
-      <guid>http://nicolaepaladi.com/posts/standict-2021-06-15/</guid>
+      <guid>nicolaepaladi.com/posts/standict-2021-06-15/</guid>
       <description>On Tuesday June 15th I will be speaking for the ELITE-S Programme about my IETF standarization experience supported by the StandICT EU project. The idea of this presentation is to inspire the fellows of the ELITE-S programme to get involved into standarization activities.</description>
     </item>
     
