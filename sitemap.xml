@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/projects/</loc>
+    <lastmod>2021-07-09T11:52:48+02:00</lastmod>
+  </url><url>
+    <loc>/research/</loc>
+    <lastmod>2021-07-09T11:48:38+02:00</lastmod>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2021-07-08T12:14:21+02:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>/</loc>
     <lastmod>2021-07-08T11:27:20+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>/posts/</loc>
     <lastmod>2021-07-08T11:27:20+02:00</lastmod>
   </url><url>
     <loc>/posts/standict-2021-06-15/</loc>

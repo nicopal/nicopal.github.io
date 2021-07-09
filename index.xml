@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Security and Privacy</title>
+    <title>Nicolae Paladi</title>
     <link>/</link>
-    <description>Recent content on Security and Privacy</description>
+    <description>Recent content on Nicolae Paladi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 08 Jul 2021 11:27:20 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Fri, 09 Jul 2021 11:52:48 +0200</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>More info coming soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Fri, 09 Jul 2021 11:48:38 +0200</pubDate>
+      
+      <guid>/research/</guid>
+      <description>More info coming soon&amp;hellip;
+Until then, the complete list of publications can be found on my Google Scholar Profile.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>/about/</link>
